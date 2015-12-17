@@ -1,0 +1,28 @@
+name: Outin Joulusivut
+favicon: null
+layout_spectrum: 0.10801034048199654
+typography_spectrum: 0.7471605020109564
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#B8B42D'
+    - '#697A21'
+    - '#FFFCE8'
+    - '#3E363F'
+    - '#DD403A'
+  brandStrength: 0.6400528086815029
+  lightness: 0.7536341480445117
+  saturation: 0.28853699192404747
+  rhythmicContrast: 0.490370579296723
+purpose: []
