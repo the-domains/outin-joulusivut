@@ -1,13 +1,13 @@
 ---
 authors: []
-dateModified: '2016-05-10T18:48:16.376Z'
-datePublished: '2016-05-10T18:48:52.432Z'
+dateModified: '2016-05-11T09:20:30.158Z'
+datePublished: '2016-05-11T09:22:03.773Z'
 hasPage: true
 inFeed: true
 inNav: false
 keywords: []
 publisher: {}
-title: ''
+title: Home Archive
 description: ''
 author: []
 starred: false
@@ -18,7 +18,7 @@ _type: Article
 ---
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/b866624f-6e62-4264-b4a0-06b3b42b9ade.jpg)
 
-Family robotics
+Family Robotics
 
 (In the photo I play with
 
@@ -32,15 +32,12 @@ And the comic strip
 
 was very popular when I was a child.
 
-Still we haven't got many own robots. We used to two Nabaztag --robots
-
-[http://kauppa.robokeskus.fi/index.php route=product/product&product\_id=186][1]
+Still we haven't got many own robots. We used to two Nabaztag --robots.
 ![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/99a40532-e91a-424f-98e5-fbba6f85d4bb.jpg)
 
-.And an Ironing robot like
+And an Ironing robot likf[/kauppa.robokeskus.fi/index.php rout][1]
 
-[http://kauppa.robokeskus.fi/index.php route=product/product&product\_id=186][1]
-![](https://the-grid-user-content.s3-us-west-2.amazonaws.com/99a40532-e91a-424f-98e5-fbba6f85d4bb.jpg)
+Or this:
 
 [0]: https://en.wikipedia.org/wiki/The_Jetsons
 [1]: http://kauppa.robokeskus.fi/index.php?route=product/product&product_id=186
