@@ -9,7 +9,6 @@ keywords: []
 publisher: {}
 title: Home Archive
 description: ''
-author: []
 starred: false
 sourcePath: _posts/2016-05-09-familyrobotics.md
 url: familyrobotics/index.html
