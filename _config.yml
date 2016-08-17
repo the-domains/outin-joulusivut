@@ -1,20 +1,11 @@
-name: Outin Joulusivut
-favicon: null
+name: Life of Outi
 layout_spectrum: 0.83331
 typography_spectrum: 0.7471605020109564
-title: Life of Outi
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
+cta: {}
+analytics: {}
 opengraph:
-  image: null
-  type: null
-  appId: null
+  type: ''
+  appId: ''
 color:
   brandColors:
     - '#B8B42D'
@@ -27,3 +18,10 @@ color:
   saturation: 0.28853699192404747
   rhythmicContrast: 0.490370579296723
 purpose: []
+title: Life of Outi
+author:
+  name: ''
+  url: ''
+  email: ''
+content_rating:
+  adult: false
