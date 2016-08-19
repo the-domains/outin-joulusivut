@@ -1,11 +1,5 @@
-name: Life of Outi
 layout_spectrum: 0.83331
-typography_spectrum: 0.7471605020109564
-cta: {}
-analytics: {}
-opengraph:
-  type: ''
-  appId: ''
+typography_spectrum: 0.8795483037829399
 color:
   brandColors:
     - '#B8B42D'
@@ -17,6 +11,12 @@ color:
   lightness: 0.7536341480445117
   saturation: 0.28853699192404747
   rhythmicContrast: 0.490370579296723
+name: Life of Outi
+cta: {}
+analytics: {}
+opengraph:
+  type: ''
+  appId: ''
 purpose: []
 title: Life of Outi
 author:
