@@ -1,5 +1,6 @@
-layout_spectrum: 0.83331
 typography_spectrum: 0.8795483037829399
+content_rating:
+  adult: false
 color:
   brandColors:
     - '#B8B42D'
@@ -11,17 +12,16 @@ color:
   lightness: 0.7536341480445117
   saturation: 0.28853699192404747
   rhythmicContrast: 0.490370579296723
-name: Life of Outi
-cta: {}
-analytics: {}
 opengraph:
   type: ''
   appId: ''
-purpose: []
-title: Life of Outi
+layout_spectrum: 0.83331
+analytics: {}
 author:
   name: ''
   url: ''
   email: ''
-content_rating:
-  adult: false
+name: Life of Outi
+cta: {}
+title: Life of Outi
+purpose: []
