@@ -23,5 +23,9 @@ author:
   email: ''
 name: Life of Outi
 cta: {}
+navigation:
+  - name: Family Robotics
+    id: 1f0cccc8-d66e-4218-9403-a5dc8e6ea5b6
+    type: content
 title: Life of Outi
 purpose: []
