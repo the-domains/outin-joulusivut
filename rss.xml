@@ -4,8 +4,15 @@
         <description><![CDATA[Life of Outi]]></description>
         <link>https://thegrid.ai/outin-joulusivut/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Wed, 31 Aug 2016 06:44:20 GMT</lastBuildDate>
+        <lastBuildDate>Wed, 31 Aug 2016 06:51:41 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/outin-joulusivut/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[Family Robotics]]></title>
+            <description><![CDATA[<article><h1>Family Robotics</h1><p>In the photo I play with The nursery robots in the Finnish Robotics seminar 2013.            I have always been keen on Robotics. I guess that the fact my both parents were physics teachers have something to do with it.                                 And the comic strip https://en.wikipedia.org/wiki/The_Jetsons Was very popular when I was a child. Still we haven’t got many own robots. We used to two Nabaztag –robots. In the photo one of our Nabaztag named Nabkron.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/58fa9d36-d6b7-4c78-98d0-c20b6e3677a3.jpg"></article>]]></description>
+            <link>https://thegrid.ai/outin-joulusivut/familyrobotics/index.html</link>
+            <guid isPermaLink="false">1f0cccc8-d66e-4218-9403-a5dc8e6ea5b6</guid>
+            <pubDate>Wed, 31 Aug 2016 06:51:40 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[Life of Outi]]></title>
             <description><![CDATA[<img src="https://imgflo.herokuapp.com/graph/vahj1ThiexotieMo/f8b473a073e771e24a545dbceb7720e6/croprotate.jpg?cropheight=1013&cropwidth=1350&degrees=0&input=https%3A%2F%2Fthe-grid-user-content.s3-us-west-2.amazonaws.com%2F6e87d28d-18b8-47b4-a4cb-aca61c497676.jpg&x=0&y=0" alt="Life of Outi -websites ">]]></description>
@@ -19,13 +26,6 @@
             <link>https://the-grid-user-content.s3-us-west-2.amazonaws.com/4648aad5-43a4-411d-9bb8-ed91f975403a.jpg</link>
             <guid isPermaLink="false">4d494f42-fb91-4f01-9264-071d7bd44180</guid>
             <pubDate>Wed, 17 Aug 2016 15:56:55 GMT</pubDate>
-        </item>
-        <item>
-            <title><![CDATA[Family Robotics]]></title>
-            <description><![CDATA[<article><h1>Family Robotics</h1><p>In the photo I play with The nursery robots in the Finnish Robotics seminar 2013.            I have always been keen on Robotics. I guess that the fact my both parents were physics teachers have something to do with it.                                 And the comic strip https://en.wikipedia.org/wiki/The_Jetsons Was very popular when I was a child. Still we haven’t got many own robots. We used to two Nabaztag –robots. In the photo one of our Nabaztag named Nabkron.</p><img src="https://the-grid-user-content.s3-us-west-2.amazonaws.com/58fa9d36-d6b7-4c78-98d0-c20b6e3677a3.jpg"></article>]]></description>
-            <link>https://thegrid.ai/outin-joulusivut/familyrobotics/index.html</link>
-            <guid isPermaLink="false">1f0cccc8-d66e-4218-9403-a5dc8e6ea5b6</guid>
-            <pubDate>Wed, 13 Jul 2016 06:09:54 GMT</pubDate>
         </item>
     </channel>
 </rss>
